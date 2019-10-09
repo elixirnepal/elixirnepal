@@ -20,10 +20,12 @@ url: "http://elixirnepal.org"
 
 # List of links in the navigation bar
 navbar-links:
-  "Useful Links": "https://elixir-lang.org/"
-  # Resources:
-  #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-  #   - Learn markdown: "http://www.markdowntutorial.com/"
+  "Useful Links":
+    - "Elixir": "https://elixir-lang.org/"
+    - "Phoenix": "https://phoenixframework.org/"
+    - "Elixir Forum": "https://elixirforum.com/"
+    - "Elixir Reddit": "http://reddit.com/r/elixir"
+    - "Conferences": "https://github.com/elixir-lang/elixir/wiki/Conferences"
   # Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
